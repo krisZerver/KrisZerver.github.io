@@ -109,8 +109,8 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
 } */
 
 .card-icon {
-  width: 45px; /* Ukuran ikon */
-  height: 45px;
+  width: 50px; /* Ukuran ikon */
+  height: 50px;
   border-radius: 10px;
 }
 
